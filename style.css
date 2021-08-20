@@ -90,6 +90,22 @@
   width: 110px;
 }
 
+.nineone {
+  width: 100px;
+}
+
+.ninetwo {
+  width: 60px;
+}
+
+.tenone {
+  width: 60px;
+}
+
+.tentwo {
+  width: 100px;
+}
+
 .eightone {
   width: 110px;
 }
@@ -127,4 +143,51 @@
 
 .twelvethree {
   width: 75px;
+}
+
+.thirteenone {
+  width: 110px;
+  height: 45px;
+}
+
+.thirteentwo {
+  height: 45px;
+}
+
+.thirteenfour,
+.thirteenfive,
+.thirteensix {
+  height: 155px;
+}
+
+.sixteenone {
+  margin-bottom: 8px;
+}
+
+.sixteenone,
+.sixteenfour {
+  width: 170px;
+  height: 45px;
+
+  background-color: black;
+}
+
+.sixteenfour {
+  margin-top: 4px;
+}
+
+.sixteentwo,
+.sixteenthree,
+.sixteenthreetwo {
+  height: 110px;
+  margin: 0;
+}
+
+.sixteenthree {
+  width: 112px;
+  margin-left: 3px;
+}
+.sixteenthreetwo {
+  width: 112px;
+  margin-right: 3px;
 }
