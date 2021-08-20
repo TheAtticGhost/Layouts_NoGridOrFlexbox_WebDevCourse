@@ -1,0 +1,130 @@
+.block {
+  width: 50px;
+  height: 200px;
+  margin: 2px;
+  display: inline-block;
+  background-color: black;
+}
+
+.onetwo {
+  width: 110px;
+  height: 45px;
+  position: absolute;
+}
+
+.onethree,
+.onefour {
+  height: 145px;
+}
+
+.twotwo {
+  width: 110px;
+  height: 45px;
+  position: absolute;
+}
+
+.twothree,
+.twofour {
+  height: 145px;
+}
+
+.threeone {
+  width: 170px;
+  height: 200px;
+  background-color: black;
+}
+
+.fourone {
+  width: 200px;
+  height: 45px;
+  position: absolute;
+}
+
+.fourone {
+  height: 45px;
+  width: 169px;
+}
+
+.fourtwo,
+.fourthree {
+  height: 145px;
+  margin-top: 55px;
+}
+.fourthree {
+  width: 110px;
+}
+
+.block2 {
+  width: 50px;
+  height: 66.7px;
+  margin: 2px;
+
+  background-color: black;
+}
+
+.fiveone {
+  width: 110px;
+}
+
+.fiveone,
+.fivetwo {
+  display: inline-block;
+}
+
+.fivethree,
+.fivefour,
+.fivefive,
+.fivesix,
+.fiveseven,
+.fiveeight {
+  margin-bottom: 10px;
+}
+
+.one,
+.two,
+.three {
+  display: inline-block;
+}
+
+.seventwo {
+  width: 110px;
+}
+
+.eightone {
+  width: 110px;
+}
+
+.elevenone {
+  width: 170px;
+  height: 45px;
+  background-color: black;
+  margin-bottom: 5px;
+}
+
+.eleventwo,
+.eleventhree,
+.elevenfour {
+  height: 155px;
+}
+
+.twelveone {
+  width: 170px;
+  height: 45px;
+  background-color: black;
+  margin-bottom: 5px;
+}
+
+.twelvetwo,
+.twelvethree,
+.twelvefour {
+  height: 155px;
+}
+
+.twelvetwo,
+.twelvefour {
+  width: 37.5px;
+}
+
+.twelvethree {
+  width: 75px;
+}
